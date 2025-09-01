@@ -1,5 +1,5 @@
 # RGP_3
-A successor to RGP_2 using Unity
+A successor to RGP_2 using Unity and made into an android app
 My first time using Unity and i liked it so much that this project is still a work in progress. Many more updates to made with This becominga a pitstop simulator where the time for pitstops are'nt random but depends on how quick you can execute.
 The game will still have a random element to it but this will entail other cars.
 Things to be added:
